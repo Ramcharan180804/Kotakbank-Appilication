@@ -65,6 +65,8 @@ public class Main {
 
             System.out.println("Transaction Failed...");
             System.out.println("Ramcharan");
+            System.out.println("Ram");
+            System.out.println("charan");
         }
 
     }
